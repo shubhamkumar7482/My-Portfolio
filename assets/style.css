@@ -197,7 +197,7 @@ section {
     position: relative;
     display: flex;
     justify-content: space-between;
-    width: 34.5rem;
+    width: 38.5rem;
     height: 5rem;
 }
 
@@ -251,6 +251,10 @@ section {
 
 .btn-box .btn:hover::before {
     width: 100%;
+}
+
+#download_btn {
+    width: 22rem !important;
 }
 
 .home-sci {
